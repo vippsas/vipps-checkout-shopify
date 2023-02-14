@@ -39,16 +39,26 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 
 # Installation
 
-## Step 1
-![Step 1](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify1.png?raw=true "Step 1.")
+## Step 1 - Preparations
+Make sure you have easy access to the API keys, by logging in to Vipps Portal at https://portal.vipps.no/ and find the correct API keys.
+
+**Pro tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), **don't uninstall it yet**, as we can auto-fill the API keys for you if it's installed. Makes it way easier for you to migrate! :)
+
 ## Step 2
-![Step 2](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify2.png?raw=true "Step 2.")
+Go to Shopify App store via this link and install the Vipps Checkout app from there: [Vipps Checkout in Shopify App store](https://apps.shopify.com/vipps-checkout?locale=nb)
+
 ## Step 3
-![Step 3](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify3.png?raw=true "Step 3.")
+![Step 3](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-2.png?raw=true "Step 3")
+
 ## Step 4
-![Step 4](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify4.png?raw=true "Step 4.")
+![Step 4](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-3.png?raw=true "Step 4")
+
 ## Step 5
-![Step 5](https://github.com/vippsas/vipps-shopify/raw/master/Vipps2Shopify5.png?raw=true "Step 5.")
+![Step 5](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-4.png?raw=true "Step 5")
+
+## Step 6
+![Step 6](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-5.png?raw=true "Step 6")
+
 
 # What do the different order statuses mean?
 See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
