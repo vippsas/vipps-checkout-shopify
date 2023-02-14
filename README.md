@@ -45,7 +45,7 @@ Make sure you have easy access to the API keys, by logging in to Vipps Portal at
 **Pro tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), **don't uninstall it yet**, as we can auto-fill the API keys for you if it's installed. Makes it way easier for you to migrate! :)
 
 ## Step 2
-Go to Shopify App store via this link and install the Vipps Checkout app from there: [Vipps Checkout in Shopify App store](https://apps.shopify.com/vipps-checkout?locale=nb)
+Go to Shopify App store via this link and install the Vipps Checkout app from there: <a href="https://apps.shopify.com/vipps-checkout?locale=nb" target="_blank">Vipps Checkout in Shopify App store</a>
 
 ## Step 3
 ![Step 3](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-2.png?raw=true "Step 3")
