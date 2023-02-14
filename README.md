@@ -59,6 +59,9 @@ Go to Shopify App store via this link and install the Vipps Checkout app from th
 ## Step 6
 ![Step 6](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-5.png?raw=true "Step 6")
 
+## Step 7
+If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from Shopify now.
+
 
 # What do the different order statuses mean?
 See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
