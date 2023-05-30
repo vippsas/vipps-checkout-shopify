@@ -48,15 +48,15 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
-See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/vipps-developer-portal-getting-started.md) with the Vipps Portal, and the Vipps eCommerce [FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md).
+See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/getting-started/), and the Vipps [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
 
 ## Installation
 
 ### Step 1 - Preparations
 
-Make sure you have easy access to the API keys, by logging in to Vipps Portal at https://portal.vipps.no/ and find the correct API keys.
+Make sure you have easy access to the API keys, by logging in to [Vipps Portal](https://portal.vipps.no/) and find the correct API keys.
 
-**Pro tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), **don't uninstall it yet**, as we can auto-fill the API keys for you if it's installed. Makes it way easier for you to migrate. :)
+**Pro-tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), *don't uninstall it yet*, as we can autofill the API keys for you if it's installed. Makes it way easier for you to migrate. :)
 
 ### Step 2
 
@@ -81,15 +81,15 @@ If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from S
 
 ## What do the different order statuses mean?
 
-See [Shopify Order statuses with Vipps](https://github.com/vippsas/vipps-shopify/blob/master/order-statuses.md) for information regarding order statuses.
+See [Shopify Order statuses with Vipps](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps) for information regarding order statuses.
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
+For issues with your Vipps for Shopify installation contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
 ## Shopify FAQ (mainly Vipps for Shopify app)
 
-See the [Shopify FAQ](https://github.com/vippsas/vipps-shopify/blob/master/shopify-faq.md) we have created for more help with Shopify.
+See the [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/) we have created for more help with Shopify.
 
 # Vipps FAQ
 
