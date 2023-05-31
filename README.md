@@ -38,7 +38,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 
 ## How to get started
 
-- Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
+- Sign up to use Vipps på Nett on [portal.vipps.no](https://portal.vipps.no/login).
 - After 1-2 days, you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
@@ -67,17 +67,20 @@ Go to Shopify App store via [this link](https://apps.shopify.com/vipps-checkout?
 ![Step 3](images/vipps-checkout-step-2.png "Step 3")
 
 ### Step 4
+
 ![Step 4](images/vipps-checkout-step-3.png "Step 4")
 
 ### Step 5
+
 ![Step 5](images/vipps-checkout-step-4.png "Step 5")
 
 ### Step 6
+
 ![Step 6](images/vipps-checkout-step-5.png "Step 6")
 
 ### Step 7
-If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from Shopify now.
 
+If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from Shopify now.
 
 ## What do the different order statuses mean?
 
@@ -85,12 +88,12 @@ See [Shopify Order statuses with Vipps](https://developer.vippsmobilepay.com/doc
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
+For issues with your Vipps for Shopify installation, contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
 ## Shopify FAQ (mainly Vipps for Shopify app)
 
-See the [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/) we have created for more help with Shopify.
+See the [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/).
 
 # Vipps FAQ
 
-See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/) for more help with Vipps.
+See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
