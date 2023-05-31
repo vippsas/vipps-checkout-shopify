@@ -24,11 +24,11 @@ Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrif
 
 ## Vipps vs Vipps Checkout? What's the difference?
 
-For the moment, there are two payment methods offered from Vipps available in Shopify, Vipps(called Vipps 2.0) and Vipps Checkout. Vipps Checkout is the latest one. Vipps 2.0 will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
+For the moment, there are two payment methods offered from Vipps available in Shopify, Vipps (called Vipps 2.0) and Vipps Checkout. Vipps Checkout is the latest one. Vipps 2.0 will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
 
 ## Vipps Express Checkout
 
-Vipps does not have a solution for Vipps Express Checkout (Vipps Hurtigkasse) in Shopify.
+Vipps does not have a solution for Vipps Hurtigkasse (*Express Checkout*) in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
 make Vipps Hurtigkasse possible, we will add this functionality.
 
@@ -39,7 +39,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 ## How to get started
 
 - Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
-- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
+- After 1-2 days, you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
 ## How to get Vipps account keys from Vipps Developer Portal
@@ -64,16 +64,16 @@ Go to Shopify App store via [this link](https://apps.shopify.com/vipps-checkout?
 
 ### Step 3
 
-![Step 3](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-2.png?raw=true "Step 3")
+![Step 3](images/vipps-checkout-step-2.png "Step 3")
 
 ### Step 4
-![Step 4](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-3.png?raw=true "Step 4")
+![Step 4](images/vipps-checkout-step-3.png "Step 4")
 
 ### Step 5
-![Step 5](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-4.png?raw=true "Step 5")
+![Step 5](images/vipps-checkout-step-4.png "Step 5")
 
 ### Step 6
-![Step 6](https://github.com/vippsas/vipps-checkout-shopify/raw/main/vipps-checkout-step-5.png?raw=true "Step 6")
+![Step 6](images/vipps-checkout-step-5.png "Step 6")
 
 ### Step 7
 If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from Shopify now.
