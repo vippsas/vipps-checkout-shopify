@@ -40,7 +40,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
-See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/getting-started/), and the Vipps [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
+See [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/getting-started/) and the [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
 
 ## Installation
 
@@ -58,26 +58,26 @@ Go to Shopify App store via [this link](https://apps.shopify.com/vipps-checkout?
 
 Confirm that you want to install Vipps Checkout by reviewing the information on the page and clicking the *Install app* button.
 
-![Step 3](./images/vipps-checkout-step-2.png)
+![Step 3](./docs/images/vipps-checkout-step-2.png)
 
 ### Step 4
 
 Go to the app settings. Input the API keys from Vipps.
-These may be auto-filled if you are converting from Vipps 2.0.
+These may be autofilled if you are converting from Vipps 2.0.
 
-![Step 4](./images/vipps-checkout-step-3.png)
+![Step 4](./docs/images/vipps-checkout-step-3.png)
 
 ### Step 5
 
 In the *Shopify Payment Gateway* settings, activate Vipps Checkout.
 
-![Step 5](./images/vipps-checkout-step-4.png)
+![Step 5](./docs/images/vipps-checkout-step-4.png)
 
 ### Step 6
 
 Do a few test orders against the production API keys to confirm that the integration is working without errors.
 
-![Step 6](./images/vipps-checkout-step-5.png)
+![Step 6](./docs/images/vipps-checkout-step-5.png)
 
 ### Step 7
 
