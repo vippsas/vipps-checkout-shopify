@@ -1,14 +1,13 @@
 # Vipps Checkout for Shopify
 
+<!-- START_COMMENT -->
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-plugins/shopify/>. 💥
+<!-- END_COMMENT -->
+
 The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
 The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
 
-<!-- START_COMMENT -->
-
-💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-plugins/shopify/>. 💥
-
-<!-- END_COMMENT -->
 
 ## Description
 
