@@ -1,13 +1,23 @@
+<!-- START_METADATA
+---
+title: Vipps Checkout for Shopify plugin
+sidebar_position: 1
+pagination_next: null
+pagination_prev: null
+---
+END_METADATA -->
+
 # Vipps Checkout for Shopify
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
+This module is hosted on [GitHub](https://github.com/vippsas/vipps-checkout-shopify).
+
+Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
+
 The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
-
-The plugin is available from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
-
 
 ## Description
 
@@ -25,9 +35,9 @@ For the moment, there are two payment methods offered from Vipps available in Sh
 
 ## Vipps Express Checkout
 
-Vipps does not have a solution for Vipps Hurtigkasse (*Express Checkout*) in Shopify.
+Vipps does not have a solution for *Vipps Hurtigkasse* ("Express Checkout") in Shopify.
 This is due to limitations on Shopify's side, and if Shopify makes changes that
-make Vipps Hurtigkasse possible, we will add this functionality.
+make *Vipps Hurtigkasse* possible, we will add this functionality.
 
 ## Vipps Payment
 
@@ -35,7 +45,7 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 
 ## How to get started
 
-- Sign up to use Vipps på Nett on [portal.vipps.no](https://portal.vipps.no/login).
+- Sign up to use *Vipps på Nett* on [portal.vipps.no](https://portal.vipps.no/login).
 - After 1-2 days, you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
@@ -55,36 +65,36 @@ Make sure you have easy access to the API keys, by logging in to [Vipps Portal](
 
 **Pro-tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), *don't uninstall it yet*, as we can autofill the API keys for you if it's installed. Makes it way easier for you to migrate. :)
 
-### Step 2 Install Checkout app
+### Step 2 - Install Checkout app
 
 Go to Shopify App store via [this link](https://apps.shopify.com/vipps-checkout?locale=nb) and install the *Vipps Checkout* app from there.
 
-### Step 3 Confirm and install
+### Step 3 - Confirm and install
 
 Confirm that you want to install Vipps Checkout by reviewing the information on the page and clicking the *Install app* button.
 
 ![Step 3](./docs/images/vipps-checkout-step-2.png)
 
-### Step 4
+### Step 4 - Input API keys
 
 Go to the app settings. Input the API keys from Vipps.
 These may be autofilled if you are converting from Vipps 2.0.
 
 ![Step 4](./docs/images/vipps-checkout-step-3.png)
 
-### Step 5
+### Step 5 - Activate Checkout
 
 In the *Shopify Payment Gateway* settings, activate Vipps Checkout.
 
 ![Step 5](./docs/images/vipps-checkout-step-4.png)
 
-### Step 6
+### Step 6 - Test
 
 Do a few test orders against the production API keys to confirm that the integration is working without errors.
 
 ![Step 6](./docs/images/vipps-checkout-step-5.png)
 
-### Step 7
+### Step 7 - Clean up
 
 If you were migrating from Vipps 2.0 in Shopify, you can safely remove it from Shopify now.
 
@@ -100,6 +110,6 @@ For issues with your Vipps for Shopify installation, contact us via our [support
 
 See the [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/).
 
-# Vipps FAQ
+## Vipps FAQ
 
 See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
