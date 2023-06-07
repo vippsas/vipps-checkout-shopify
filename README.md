@@ -15,9 +15,10 @@ END_METADATA -->
 
 This module is hosted on [GitHub](https://github.com/vippsas/vipps-checkout-shopify).
 
-Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
-
 The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
+
+Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
+Also install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/) to be able to add branding and order information.
 
 ## Description
 
