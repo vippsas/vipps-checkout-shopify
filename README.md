@@ -102,12 +102,9 @@ See [Shopify Order statuses with Vipps](https://developer.vippsmobilepay.com/doc
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Shopify installation, contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3). For other issues, you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
+For issues with your Vipps for Shopify installation, contact us via our [support system here](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).
 
-## Shopify FAQ (mainly Vipps for Shopify app)
+## FAQ
 
-See the [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/).
-
-## Vipps FAQ
-
-See the [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/).
+* [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/)
+* [Vipps FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/)
