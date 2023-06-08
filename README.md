@@ -31,15 +31,13 @@ The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tj
 
 For the moment, there are two payment methods offered from Vipps available in Shopify, Vipps (called Vipps 2.0) and Vipps Checkout. Vipps Checkout is the latest one. Vipps 2.0 will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
 
-## Vipps Express Checkout
-
-Vipps does not have a solution for *Vipps Hurtigkasse* ("Express Checkout") in Shopify.
-This is due to limitations on Shopify's side, and if Shopify makes changes that
-make *Vipps Hurtigkasse* possible, we will add this functionality.
-
 ## Vipps Payment
 
 When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer chooses Vipps, the customer fills in the contact information and is then asked to enter the phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Shopify store.
+
+**Please note:** Vipps does not have a solution for *Vipps Hurtigkasse* ("Express Checkout") in Shopify.
+This is due to limitations on Shopify's side, and if Shopify makes changes that
+make *Vipps Hurtigkasse* possible, we will add this functionality.
 
 ## How to get started
 
