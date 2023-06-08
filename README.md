@@ -13,11 +13,9 @@ END_METADATA -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
-The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
-
 Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
 
-Install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/) to be able to add branding and order information.
+Install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/) to add branding and order information.
 
 ## Description
 
@@ -27,7 +25,7 @@ This is the official Vipps plugin that provides a direct integration with Shopif
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/) about the plugin.
+The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
 
 ## Vipps vs Vipps Checkout? What's the difference?
 
