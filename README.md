@@ -1,13 +1,15 @@
 <!-- START_METADATA
 ---
-title: Checkout for Shopify
+title: Vipps Checkout for Shopify
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null
 ---
 END_METADATA -->
 
-# Checkout for Shopify
+# Vipps Checkout for Shopify
+
+*This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
