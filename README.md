@@ -59,7 +59,7 @@ make *Vipps Hurtigkasse* possible, we will add this functionality.
 2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
-See [Getting Started](https://developer.vippsmobilepay.com/docs/getting-started/) and the [Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/).
+See [Getting Started](https://developer.vippsmobilepay.com/docs/getting-started/) and the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/).
 
 ## Installation
 
@@ -113,4 +113,4 @@ For issues with your Vipps for Shopify installation, contact us via our [support
 ## FAQ
 
 * [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/)
-* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/common-topics/)
+* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/)
