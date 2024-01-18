@@ -49,23 +49,28 @@ make *Vipps Hurtigkasse* possible, we will add this functionality.
 
 ## How to get started
 
-- Sign up to use *Vipps på Nett* on [portal.vipps.no](https://portal.vipps.no/login).
-- After 1-2 days, you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
-- Download and configure
+- Sign up to use [*Vipps på Nett*](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/).
+- After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
+- Download and configure.
 
-## How to get Vipps account keys from Vipps Developer Portal
+See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in).
 
-1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
-2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
+## How to get account keys from the merchant portal
+
+1. Sign in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
+2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
-See [Getting Started](https://developer.vippsmobilepay.com/docs/getting-started/) and the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/).
+See:
+
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
+- [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
 ## Installation
 
 ### Step 1 - Preparations
 
-Make sure you have easy access to the API keys, by logging in to the [Merchant Portal](https://portal.vipps.no/) and find the correct API keys.
+Make sure you have easy access to the API keys, by logging in to the [Merchant Portal](https://portal.vippsmobilepay.com/) and find the correct API keys.
 
 **Pro-tip**: If you are migrating from the old Vipps gateway (called Vipps 2.0 in Shopify), *don't uninstall it yet*, as we can autofill the API keys for you if it's installed. Makes it way easier for you to migrate. :)
 
@@ -112,5 +117,5 @@ For issues with your Vipps for Shopify installation, contact us via our [support
 
 ## FAQ
 
-* [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/)
-* [Vipps Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/)
+- [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/)
+- [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/)
