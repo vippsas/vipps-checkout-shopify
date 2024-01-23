@@ -33,8 +33,6 @@ This is the official Vipps plugin that provides a direct integration with Shopif
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-The Vipps product page: [Vipps for Shopify](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/shopify/).
-
 ## Vipps vs Vipps Checkout? What's the difference?
 
 For the moment, there are two payment methods offered from Vipps available in Shopify, Vipps (called Vipps 2.0) and Vipps Checkout. Vipps Checkout is the latest one. Vipps 2.0 will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
@@ -49,7 +47,7 @@ make *Vipps Hurtigkasse* possible, we will add this functionality.
 
 ## How to get started
 
-- Sign up to use [*Vipps på Nett*](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/).
+- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
 - After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
