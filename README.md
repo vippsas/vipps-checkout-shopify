@@ -51,7 +51,7 @@ make *Vipps Hurtigkasse* possible, we will add this functionality.
 - After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in).
+See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-log-in).
 
 ## How to get account keys from the merchant portal
 
@@ -61,7 +61,7 @@ See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/develop
 
 See:
 
-- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-log-in)
 - [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
 ## Installation
