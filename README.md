@@ -33,9 +33,9 @@ This is the official Vipps MobilePay plugin that provides a direct integration w
 
 You can also do important back office tasks such as capture and refund directly from Shopify. Easy for your customer and easy for you.
 
-## Vipps vs Vipps Checkout? What's the difference?
+## Vipps for Shopify vs Vipps/MobilePay Checkout? What's the difference?
 
-For the moment, there are two payment methods offered from Vipps MobilePay available in Shopify, Vipps (called *Vipps 2.0*) and *Vipps/MobilePay Checkout*, which is the latest one. Vipps 2.0 will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
+For the moment, there are two payment methods offered from Vipps MobilePay available in Shopify:  *Vipps/MobilePay Checkout* (this plugin) and [*Vipps for Shopify*](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/) (also called *Vipps 2.0 for Shopify*). *Vipps for Shopify* will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
 
 ## Payment
 
