@@ -47,7 +47,7 @@ make *Vipps Hurtigkasse* possible, we will add this functionality.
 
 ## How to get started
 
-- Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
+- Sign up to use [*Checkout*](https://vippsmobilepay.com/online/checkout).
 - After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
