@@ -2,6 +2,7 @@
 ---
 title: Vipps Checkout for Shopify
 sidebar_position: 1
+description: Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 pagination_next: null
 pagination_prev: null
 ---
@@ -21,13 +22,15 @@ END_METADATA -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/). 💥
 <!-- END_COMMENT -->
 
+Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
+
 Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
 
 To add branding and order information, install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
 
 ## Description
 
-This is the official *Vipps/MobilePay Checkout* plugin for Shopify. 
+This is the official *Vipps/MobilePay Checkout* plugin for Shopify.
 
 Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400.000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
