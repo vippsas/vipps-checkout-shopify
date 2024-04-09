@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Vipps Checkout for Shopify
+title: Checkout for Shopify
 sidebar_position: 1
 description: Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 pagination_next: null
@@ -8,13 +8,13 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps Checkout for Shopify
+# Checkout for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
 ![Vipps](./docs/images/vipps.png) *Available for Vipps.*
 
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland. Expected availability in Denmark is Q1 2024.*
+![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/) and hosted on the [Shopify app store](https://apps.shopify.com/vipps-checkout).*
 
