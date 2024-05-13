@@ -12,9 +12,7 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](./docs/images/vipps.png) *Available for Vipps.*
-
-![MobilePay](./docs/images/mp.png) *Available for MobilePay in Finland and Denmark*
+![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/) and hosted on the [Shopify app store](https://apps.shopify.com/vipps-checkout).*
 
@@ -32,7 +30,7 @@ To add branding and order information, install the [Companion plugin](https://de
 
 This is the official *Vipps/MobilePay Checkout* plugin for Shopify.
 
-Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400.000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
+Branded locally as MobilePay in Denmark and Finland, and as Vipps in Norway. One platform gathering more than 11 million users and more than 400,000 merchants across the Nordics. Give your users an easy, fast and familiar shopping experience.
 
 Increase your conversion rate by letting your customers pay with a fast, secure and convenient payment method. Vipps MobilePay allows users to make quick and easy payments using their mobile phone, without the need for entering credit card details or other sensitive information.
 
@@ -62,7 +60,7 @@ See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/develop
 
 1. Sign in to [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
 2. In the *For Developers* section, choose *Production* keys. Here, you can find the merchant serial number (6-7 figures).
-3. under the *API keys* column, select *Show keys* to see *Client ID*, *Client Secret*, and *Ocp-Apim-Subscription-Key*.
+3. Under the *API keys* column, select *Show keys* to see *Client ID*, *Client Secret*, and *Ocp-Apim-Subscription-Key*.
 
 See:
 
@@ -89,7 +87,7 @@ Confirm that you want to install *Checkout* by reviewing the information on the 
 
 ### Step 4 - Input API keys
 
-Go to the app settings. Input the API keys from Vipps.
+Go to the app settings. Input the API keys from Vipps MobilePay.
 These may be autofilled if you are converting from Vipps 2.0.
 
 ![Step 4](./docs/images/vipps-checkout-step-3.png)
@@ -109,6 +107,10 @@ Do a few test orders against the production API keys to confirm that the integra
 ### Step 7 - Clean up
 
 If you were migrating from an older plugin version, you can safely remove it from Shopify now.
+
+## Add branding to your store
+
+To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
 
 ## What do the different order statuses mean?
 
