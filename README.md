@@ -114,7 +114,7 @@ To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePa
 
 ## What do the different order statuses mean?
 
-See [Shopify Order statuses with Vipps](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps) for information regarding order statuses.
+See [Shopify Order statuses with Vipps MobilePay](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps-mobilepay) for information regarding order statuses.
 
 ## How can I get help if I have any issues?
 
