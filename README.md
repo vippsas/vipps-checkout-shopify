@@ -1,4 +1,3 @@
-<!-- START_METADATA
 ---
 title: Vipps/MobilePay Checkout for Shopify
 sidebar_position: 1
@@ -6,25 +5,23 @@ description: Enable customers to choose Vipps or MobilePay as a payment method d
 pagination_next: null
 pagination_prev: null
 ---
-END_METADATA -->
+
 
 # Vipps/MobilePay Checkout for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](./docs/images/vipps.png) ![MobilePay](./docs/images/mp.png) *Available for Vipps and MobilePay.*
+![Vipps](/img/vipps.svg) ![MobilePay](/img/mp.svg) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/) and hosted on the [Shopify app store](https://apps.shopify.com/vipps-checkout).*
 
-<!-- START_COMMENT -->
-💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/checkout-shopify/). 💥
-<!-- END_COMMENT -->
+
 
 Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 
 Download the plugin from the [Shopify app store](https://apps.shopify.com/vipps-checkout).
 
-To add branding and order information, install the [Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+To add branding and order information, install the [Companion plugin](/docs/plugins-ext/shopify-companion/).
 
 ## Description
 
@@ -38,7 +35,7 @@ You can also do important back office tasks such as capture and refund directly 
 
 ## Vipps for Shopify vs Vipps/MobilePay Checkout? What's the difference?
 
-For the moment, there are two payment methods offered from Vipps MobilePay available in Shopify:  *Vipps/MobilePay Checkout* (this plugin) and [*Vipps for Shopify*](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/) (also called *Vipps 2.0 for Shopify*). *Vipps for Shopify* will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
+For the moment, there are two payment methods offered from Vipps MobilePay available in Shopify:  *Vipps/MobilePay Checkout* (this plugin) and [*Vipps for Shopify*](/docs/plugins-ext/shopify/) (also called *Vipps 2.0 for Shopify*). *Vipps for Shopify* will be depreciated and replaced completely by Vipps Checkout in the future, so we suggest installing Vipps Checkout right away.
 
 ## Payment
 
@@ -54,7 +51,7 @@ make *Express Checkout* possible, we will add this functionality.
 - After 1-2 days, you will get an email with login details to Vipps MobilePay Merchant Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
-See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-log-in).
+See [Logging in to the portal](/docs/knowledge-base/portal#how-to-log-in).
 
 ## How to get account keys from the merchant portal
 
@@ -64,8 +61,8 @@ See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/develop
 
 See:
 
-- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-log-in)
-- [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
+- [Logging in to the portal](/docs/knowledge-base/portal#how-to-log-in)
+- [How to find the API keys](/docs/knowledge-base/portal#how-to-find-the-api-keys).
 
 ## Installation
 
@@ -110,11 +107,11 @@ If you were migrating from an older plugin version, you can safely remove it fro
 
 ## Add branding to your store
 
-To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePay Shopify Companion plugin](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify-companion/).
+To add Vipps or MobilePay logos and icons to your store, get the [Vipps/MobilePay Shopify Companion plugin](/docs/plugins-ext/shopify-companion/).
 
 ## What do the different order statuses mean?
 
-See [Shopify Order statuses with Vipps MobilePay](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps-mobilepay) for information regarding order statuses.
+See [Shopify Order statuses with Vipps MobilePay](/docs/plugins-ext/shopify/shopify-faq/#what-do-the-different-order-statuses-in-shopify-mean-when-combined-with-vipps-mobilepay) for information regarding order statuses.
 
 ## How can I get help if I have any issues?
 
@@ -122,5 +119,5 @@ For issues with plugin installation, contact us via our [support system](https:/
 
 ## FAQ
 
-- [Shopify FAQ](https://developer.vippsmobilepay.com/docs/plugins-ext/shopify/shopify-faq/)
-- [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/)
+- [Shopify FAQ](/docs/plugins-ext/shopify/shopify-faq/)
+- [Knowledge base](/docs/knowledge-base/)
