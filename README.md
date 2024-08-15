@@ -1,13 +1,12 @@
 ---
-title: Vipps/MobilePay Checkout for Shopify
+title: Checkout for Shopify
 sidebar_position: 1
 description: Enable customers to choose Vipps or MobilePay as a payment method directly in the checkout.
 pagination_next: null
 pagination_prev: null
 ---
 
-
-# Vipps/MobilePay Checkout for Shopify
+# Checkout for Shopify
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
