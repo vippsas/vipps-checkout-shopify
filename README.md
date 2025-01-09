@@ -10,7 +10,7 @@ pagination_prev: null
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps](/img/vipps.svg) ![MobilePay](/img/mp.svg) *Available for Vipps and MobilePay.*
+![null](/img/vipps.svg) ![null](/img/mp.svg) *Available for Vipps and MobilePay.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/) and hosted on the [Shopify app store](https://apps.shopify.com/vipps-checkout).
 For support, contact [Vipps/MobilePay for Shopify support](https://vipps-shopify.atlassian.net/servicedesk/customer/portal/3).*
